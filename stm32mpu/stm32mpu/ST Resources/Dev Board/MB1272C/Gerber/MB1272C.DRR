@@ -1,0 +1,42 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MB1272C.PcbDoc   23/10/2018  15:45:04
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : MB1272C-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : MB1272C-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : MB1272C-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      0.2mm (8mil)                                              Round             912       PTH        2120.88mm (83.50inch)
+T3      0.3mm (12mil)                                             Round             452       PTH        1353.67mm (53.29inch)
+T4      0.4mm (16mil)           +/-0.03mm (1mil)                  Round             28        PTH        107.54mm (4.23inch)
+T5      0.5mm (20mil)           +/-0.05mm (2mil)                  Round             2         PTH        1.25mm (0.05inch)
+T6      0.6mm (24mil)           +/-0.05mm (2mil)                  Slot              8         PTH        249.68mm (9.83inch)
+T7      0.6mm (24mil)                                             Slot              2         PTH        15.43mm (0.61inch)
+T8      0.9mm (35mil)                                             Round             12        PTH        90.15mm (3.55inch)
+T9      0.92mm (36mil)                                            Round             16        PTH        48.86mm (1.92inch)
+T10     1mm (39mil)                                               Round             48        PTH        292.81mm (11.53inch)
+T11     1.35mm (53mil)                                            Round             4         PTH        25.57mm (1.01inch)
+T12     1.7mm (67mil)                                             Round             2         PTH        15.50mm (0.61inch)
+T13     2.33mm (92mil)                                            Round             8         PTH        57.90mm (2.28inch)
+T14     3.5mm (138mil)                                            Round             4         PTH        165.00mm (6.50inch)
+T15     1.2mm (47mil)                                             Round             2         NPTH       3.50mm (0.14inch)
+T16     3.2mm (126mil)                                            Round             2         NPTH       11.43mm (0.45inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1502
+Layer Pair : Top Layer to Signal Layer 1
+ASCII Plated RoundHoles File : MB1272C-RoundHoles-Plated.TX1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.1mm (4mil)                                              Round             530       PTH        1833.06mm (72.17inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              530
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              2032
+----------------------------------------------------------------------------------------------------------------------------------
+Backdrill Totals                                                                    0
+
+Total Processing Time (hh:mm:ss) : 00:00:01

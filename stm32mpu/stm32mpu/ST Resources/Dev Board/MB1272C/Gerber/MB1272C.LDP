@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: D:\CAP'1G\Projets\ST Microelectronics\Le Mans\MB1272C\BASE\MB1272C\02-Design-sources\Altium_Designer\MB1272C.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=mb1272c-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=mb1272c-slotholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=mb1272c-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Signal1_Blind_Vias|DrillFile=|DrillLayers=gtl,g1
