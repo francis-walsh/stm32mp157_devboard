@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name mpu_symbols)(type Legacy)(uri ${KIPRJMOD}/mpu_symbols.lib)(options "")(descr ""))
+  (lib (name stm32mpu-rescue)(type Legacy)(uri ${KIPRJMOD}/stm32mpu-rescue.lib)(options "")(descr ""))
 )
